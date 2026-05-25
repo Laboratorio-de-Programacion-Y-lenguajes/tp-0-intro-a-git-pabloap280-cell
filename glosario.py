@@ -37,6 +37,7 @@ def definicion_django():
     definicion = "Framework web de alto nivel hecho en Python que fomenta el desarrollo rápido y un diseño limpio y pragmático."
     print(f"[NUEVO] {termino}: {definicion}")
 
+
 if __name__ == "__main__":
     mostrar_bienvenida()
     glosario_inicial()
